@@ -1,4 +1,4 @@
-# druti-portfolio-4
+# druti-portfolio
 
 Redesigned portfolio with two themes built on one palette (Ice Silver, Deep Aubergine, Marigold).
 
