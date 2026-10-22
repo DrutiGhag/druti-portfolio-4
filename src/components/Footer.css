@@ -53,3 +53,15 @@
     justify-self: center;
   }
 }
+
+
+@media (max-width: 380px) {
+  .footer-content {
+    padding: 24px 14px;
+  }
+
+  .footer-text p {
+    overflow-wrap: anywhere;
+  }
+}
+
